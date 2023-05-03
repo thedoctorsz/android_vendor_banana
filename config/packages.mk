@@ -1,12 +1,10 @@
 # BananaDroid packages
 PRODUCT_PACKAGES += \
-    Aperture \
     BananaPaper \
     Etar \
     ExactCalculator \
     GameSpace \
     OmniJaws \
-    Recorder \
     NoCutoutOverlay \
     AvoidAppsInCutoutOverlay \
     RepainterServicePriv \
